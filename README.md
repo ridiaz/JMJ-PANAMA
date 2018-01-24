@@ -7,6 +7,6 @@ arquidiosesis de Panamá y la Universidad nacional de Panama, para lograr el des
 colaboren con las actividades de la Jornada Mundial de la Jueventud 2019 que se dara cita en Panama en el 2019.
 
  
-## Equipo
+## Documentacion
 
-## Metodología
+[Ver Wiki](https://github.com/ridiaz/JMJ-PANAMA/wiki/Inicio)
